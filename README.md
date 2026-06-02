@@ -1,5 +1,5 @@
 # Data Analytics & Quant Projects
-Information Management lanyangyang | GitHub Portfolio
+Information Management and sysytem lanyangyang | GitHub Portfolio
 
 ## 📌 Projects
 
