@@ -1,5 +1,5 @@
 # Data Analytics & Quant Projects
-XJTLU Information Management | GitHub Portfolio
+Information Management lanyangyang | GitHub Portfolio
 
 ## 📌 Projects
 
